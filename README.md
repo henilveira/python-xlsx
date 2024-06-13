@@ -1,2 +1,2 @@
 # python-xlsx
-Automatização de planilhas
+Automação de planilhas
